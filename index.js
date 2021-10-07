@@ -12,7 +12,7 @@ const limiter = rateLimit({
 require("./routes")(app)
 
 app.get('/', (req, res) => {
-    res.sendFile('/home/runner/InfiniteApi/index.html')
+    res.sendFile('/home/runner/InfiniteApi/src/website/pages/index.html')
 })
 
 
