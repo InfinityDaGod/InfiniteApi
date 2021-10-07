@@ -1,7 +1,7 @@
 {
   "name": "InfiniteApi",
   "version": "1.0.0",
-  "description": "",
+  "description": "An api with everything you would need.",
   "main": "index.js",
   "dependencies": {
     "akaneko": "^5.2.2",

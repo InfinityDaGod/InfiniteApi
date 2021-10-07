@@ -10,6 +10,8 @@ Btw, when I say whole thing, that does not mean you can copy like half of it the
 
 # Thanks To
 - [Snoozeds for making the website](https://dankrpg.xyz/)
-- [TestiestSauce43 for helping me](https://api.testiestsauce43.repl.co)
+- [TestiestSauce43 for helping me]
+(https://api.testiestsauce43.repl.co)
+- [Alconera130 making wrapper]()
 - [NotFaizen for helping me](https://gud-api.gofaizen.repl.co)
 - [Jnsp for helping me](https://luminabot.xyz/api)
