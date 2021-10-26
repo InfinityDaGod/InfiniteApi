@@ -15,7 +15,9 @@ const limiter = rateLimit({
 
 // ------ ROUTES HANDLER ------ //
 
-require("./routes")(app)
+require("./src/api/routes")(app)
+
+// ------ WEBSITE PAGE ------ //
 
 app.get('/', (req, res) => {
     res.sendFile('/home/runner/InfiniteApi/src/website/pages/index.html')

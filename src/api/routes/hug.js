@@ -6,7 +6,7 @@ module.exports = {
     const r = await fetch("https://anime-api.hisoka17.repl.co/img/hug")
     const x = r.json()
     res.json({ 
-    image: x.url, 
+    image: x.url
     })
   }
 }
